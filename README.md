@@ -14,6 +14,8 @@
 - Alex Sánchez Sáez C412
 - Jorge Alberto Aspiolea C412
 
-### Tabla de revisión bibliográfica https://docs.google.com/spreadsheets/d/1uX74QC2q3J1TAglnB6ebzgcCtaV8xvYl1m9HpVLDthU/edit?gid=0#gid=0
+### Documentación
 
-### Informe del proyecto https://github.com/AlexSanchez-bit/market-whisper.ai/blob/main/Prediccion_de_mercado_basado_en_noticias.pdf
+[Tabla de revisión bibliográfica](https://docs.google.com/spreadsheets/d/1uX74QC2q3J1TAglnB6ebzgcCtaV8xvYl1m9HpVLDthU/edit?gid=0#gid=0)
+ 
+[Informe del proyecto](./Prediccion_de_mercado_basado_en_noticias.pdf)
